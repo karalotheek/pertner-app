@@ -1,0 +1,20 @@
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/base";
+@import "base/typography";
+@import "base/common";
+
+//components styling
+@import "components/elements/Icon/Icon";
+@import "components/layouts/Default/Default";
+
+// modules styling
+@import "components/modules/Header/Header";
+@import "components/modules/Loader/Loader";
+@import "components/modules/Footer/Footer";
+
+// templates styling
+@import "components/templates/Home/Home";
+
+//slider gallery css
